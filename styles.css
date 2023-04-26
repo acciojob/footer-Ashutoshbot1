@@ -45,6 +45,10 @@ li{
 	
 }
 
+.media-icons{
+	display:flex;
+}
+
 .logo-details{
 	align-self:center;
 }
